@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 <br>
 
 ## ✨ Demonstração ao Vivo
-▶️ **[Clique para ver o modelo 3D em ação](https://manoricck.github.io/01-Dodge_Viper_3d/)**
+▶️ **[Clique para ver o modelo 3D em ação](https://1-dodge-viper-3d.vercel.app/)**
 
 ## 🛠 Tecnologias Utilizadas
 
