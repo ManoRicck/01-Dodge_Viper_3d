@@ -84,14 +84,15 @@ npx serve
 http://localhost:3000
 ```
 
-## 📄 Licença
-
-MIT © ManoRicck
-
 ## ✉️ Contato
 
-Para dúvidas ou sugestões:
+Para dúvidas, sugestões ou parcerias:
 
-- Autor: ManoRicck
-- Email: henriqueexpedito964@gmail.com
-- GitHub: https://github.com/ManoRicck
+- 👤 Autor: ManoRicck
+- 📧 Email: henriqueexpedito964@gmail.com
+- 🧠 GitHub: github.com/ManoRicck
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.
+Sinta-se livre para usar, modificar e distribuir com os devidos créditos.
