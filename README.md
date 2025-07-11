@@ -75,7 +75,7 @@ git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
 ```bash
 cd 01-Dodge_Viper_3d
 ```
-3.Inicie um servidor local:
+3. Inicie um servidor local:
 ```bash
 npx serve
 ```
