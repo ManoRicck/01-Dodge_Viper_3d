@@ -11,10 +11,6 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
 <br>
 
-<div align="center">
-  <img width="20%" src="https://i.pinimg.com/736x/9f/45/88/9f458807ce362a8404007c28dc59b5d9.jpg" alt="Dodge Viper 3D Model">
-</div>
-
 ## ✨ Demonstração ao Vivo
 ▶️ **[Clique para ver o modelo 3D em ação](https://manoricck.github.io/01-Dodge_Viper_3d/)**
 
@@ -22,6 +18,7 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
 <div align="center">
 
+  <br>
   
 | Tecnologia | Uso no Projeto | Documentação |
 |------------|----------------|--------------|
@@ -30,6 +27,8 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20"> **JavaScript** | Controles interativos | [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 | <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="20"> **HTML5** | Estrutura da página | [HTML5 Reference](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20"> **CSS3** | Estilização da interface | [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
+
+<br>
 
 
 </div>
