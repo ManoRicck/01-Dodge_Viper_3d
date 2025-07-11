@@ -92,6 +92,6 @@ MIT © ManoRicck
 
 Para dúvidas ou sugestões:
 
-Email: seu-email@exemplo.com
+- Email: seu-email@exemplo.com
 
-Issues: Abra uma issue
+- Issues: Abra uma issue
