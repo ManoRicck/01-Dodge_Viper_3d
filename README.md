@@ -2,6 +2,8 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
 # 🏎️ Dodge Viper 3D - Modelo Interativo
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Blender-3D-orange?logo=blender" alt="Blender 3D">
   <img src="https://img.shields.io/badge/Three.js-WebGL-blue?logo=three.js" alt="Three.js">
@@ -12,8 +14,9 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 <br>
 
 ## ✨ Demonstração ao Vivo
+<br>
 ▶️ **[Clique para ver o modelo 3D em ação](https://1-dodge-viper-3d.vercel.app/)**
-
+<br>
 ## 🛠 Tecnologias Utilizadas
 
 <div align="center">
@@ -34,17 +37,19 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 </div>
 
 ## 🎮 Controles Interativos
+<br>
 - 🖱️ **Rotação**: Arraste com o mouse para girar o modelo
 - 🔍 **Zoom**: Use o scroll do mouse para aproximar/afastar
 - ✋ **Panorâmica**: Segure Shift + Arraste para mover a cena
 - 🔄 **Reset**: Recarregue a página para voltar à posição inicial
-
+<br>
 ## 🌟 Recursos do Modelo
+<br>
 - 🖼️ Texturas de alta resolução
 - 💡 Iluminação realista
 - 📱 Design responsivo (funciona em dispositivos móveis)
 - ⚡ Performance otimizada
-
+<br>
 ## 📦 Estrutura do Projeto
 
 ```tree
@@ -59,8 +64,6 @@ Dodge_Viper_3d/
 ├── LICENSE
 └── preview.jpg
 ```
-
-
 
 ## 🚀 Como Executar Localmente
 
