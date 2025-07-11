@@ -72,5 +72,3 @@ Dodge_Viper_3d/
 git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
 ```
 
-📄 Licença
-MIT © ManoRicck
