@@ -88,15 +88,9 @@ npx serve
 4. Acesse no navegador:
 
 ```bash
-   http://localhost:3000
+http://localhost:3000
 ```
 
-</div>
-📄 Licença
-<div align="center" style="border-top: 1px solid #eee; padding-top: 20px; margin-top: 30px;">
-https://img.shields.io/badge/Licen%C3%A7a-MIT-blue.svg
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
-</div> ```
 
    
