@@ -48,16 +48,17 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
 ## 📦 Estrutura do Projeto
 
+```tree
 Dodge_Viper_3d/
-├── models/ # Arquivos do modelo 3D
-│ ├── viper.obj # Modelo principal
-│ └── viper.mtl # Materiais
-├── textures/ # Texturas do veículo
-├── js/ # Scripts JavaScript
-│ └── main.js # Configuração Three.js
-├── index.html # Página principal
-├── LICENSE # Licença MIT
-└── preview.jpg # Imagem de preview
+├── models/
+│   ├── viper.obj
+│   └── viper.mtl
+├── textures/
+├── js/
+│   └── main.js
+├── index.html
+├── LICENSE
+└── preview.jpg
 
 
 
