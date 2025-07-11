@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 <br>
 
 <div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/ManoRicck/01-Dodge_Viper_3d/main/preview.jpg" alt="Dodge Viper 3D Model">
+  <img width="90%" src="https://i.pinimg.com/736x/9f/45/88/9f458807ce362a8404007c28dc59b5d9.jpg" alt="Dodge Viper 3D Model">
 </div>
 
 ## ✨ Demonstração ao Vivo
@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 ## 🛠 Tecnologias Utilizadas
 
 <div align="center">
+
   
 | Tecnologia | Uso no Projeto | Documentação |
 |------------|----------------|--------------|
@@ -28,6 +29,7 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 | <img src="https://threejs.org/files/favicon.ico" width="20"> **Three.js** | Renderização Web 3D | [Three.js Docs](https://threejs.org/docs/) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20"> **JavaScript** | Controles interativos | [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 | <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="20"> **HTML5** | Estrutura da página | [HTML5 Reference](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
+
 
 </div>
 
