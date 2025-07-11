@@ -92,6 +92,6 @@ MIT © ManoRicck
 
 Para dúvidas ou sugestões:
 
-- Email: seu-email@exemplo.com
-
-- Issues: Abra uma issue
+- Autor: ManoRicck
+- Email: henriqueexpedito964@gmail.com
+- GitHub: https://github.com/ManoRicck
