@@ -68,29 +68,19 @@ Dodge_Viper_3d/
 ## 🚀 Como Executar Localmente
 
 1. Clone o repositório:
-
 ```bash
 git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
 ```
-
 2. Acesse a pasta do projeto:
-
 ```bash
 cd 01-Dodge_Viper_3d
 ```
-
 3.Inicie um servidor local:
-
 ```bash
 npx serve
 ```
-
 4. Acesse no navegador:
-
 ```bash
 http://localhost:3000
 ```
-
-
-
-   
+  
