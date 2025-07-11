@@ -99,5 +99,5 @@ Para dúvidas, sugestões ou parcerias:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença MIT.<br>
 Sinta-se livre para usar, modificar e distribuir com os devidos créditos.
