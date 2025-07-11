@@ -5,13 +5,13 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Blender-3D-orange?logo=blender&style=for-the-badge" alt="Blender 3D" height="28">
+  <img src="https://img.shields.io/badge/Blender-3D-orange?logo=blender&style=for-the-badge" alt="Blender 3D" height="30">
     &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Three.js-WebGL-blue?logo=three.js&style=for-the-badge" alt="Three.js" height="28">
+  <img src="https://img.shields.io/badge/Three.js-WebGL-blue?logo=three.js&style=for-the-badge" alt="Three.js" height="30">
     &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License" height="28">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License" height="30">
     &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/interactive-true-brightgreen?style=for-the-badge" alt="Interactive" height="28">
+  <img src="https://img.shields.io/badge/interactive-true-brightgreen?style=for-the-badge" alt="Interactive" height="30">
 </div>
 
 
