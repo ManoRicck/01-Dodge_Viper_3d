@@ -59,6 +59,7 @@ Dodge_Viper_3d/
 ├── index.html
 ├── LICENSE
 └── preview.jpg
+```
 
 
 
@@ -67,3 +68,4 @@ Dodge_Viper_3d/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
+```
