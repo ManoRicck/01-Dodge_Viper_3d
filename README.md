@@ -5,11 +5,15 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Blender-3D-orange?logo=blender" alt="Blender 3D" style="margin: 10px;" height="30">
-  <img src="https://img.shields.io/badge/Three.js-WebGL-blue?logo=three.js" alt="Three.js" style="margin: 10px;" height="30">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License" style="margin: 10px;" height="30">
-  <img src="https://img.shields.io/badge/interactive-true-brightgreen" alt="Interactive" style="margin: 10px;" height="30">
+  <img src="https://img.shields.io/badge/Blender-3D-orange?logo=blender" height="30">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Three.js-WebGL-blue?logo=three.js" height="30">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/license-MIT-green" height="30">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/interactive-true-brightgreen" height="30">
 </div>
+
 
 
 <br>
