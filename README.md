@@ -37,19 +37,19 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 </div>
 
 ## 🎮 Controles Interativos
-<br>
+
 - 🖱️ **Rotação**: Arraste com o mouse para girar o modelo
 - 🔍 **Zoom**: Use o scroll do mouse para aproximar/afastar
 - ✋ **Panorâmica**: Segure Shift + Arraste para mover a cena
 - 🔄 **Reset**: Recarregue a página para voltar à posição inicial
-<br>
+
 ## 🌟 Recursos do Modelo
-<br>
+
 - 🖼️ Texturas de alta resolução
 - 💡 Iluminação realista
 - 📱 Design responsivo (funciona em dispositivos móveis)
 - ⚡ Performance otimizada
-<br>
+
 ## 📦 Estrutura do Projeto
 
 ```tree
