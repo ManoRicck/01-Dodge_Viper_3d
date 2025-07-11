@@ -83,4 +83,15 @@ npx serve
 ```bash
 http://localhost:3000
 ```
-  
+
+## 📄 Licença
+
+MIT © ManoRicck
+
+## ✉️ Contato
+
+Para dúvidas ou sugestões:
+
+Email: seu-email@exemplo.com
+
+Issues: Abra uma issue
