@@ -1,9 +1,10 @@
 https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
-<h1 align="center">
-  <img src="https://i.pinimg.com/736x/9f/45/88/9f458807ce362a8404007c28dc59b5d9.jpg" alt="Dodge Logo" height="35" style="vertical-align: middle;">
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://i.pinimg.com/736x/9f/45/88/9f458807ce362a8404007c28dc59b5d9.jpg" alt="Dodge Logo" height="35" style="vertical-align: middle; margin-right: 10px;">
   Dodge Viper 3D - Modelo Interativo
 </h1>
+
 
 
 
