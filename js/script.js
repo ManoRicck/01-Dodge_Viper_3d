@@ -22,7 +22,7 @@ let controls;
 const loader = new GLTFLoader();
 
 loader.load(
-  `./model/dodge_viper.glb`,
+  `./container/dodge_viper.glb`,
   function (gltf) {
 
     object = gltf.scene;
