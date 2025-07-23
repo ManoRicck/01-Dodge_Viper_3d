@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
 ## 🌟 Visão Geral
 
--O Dodge Viper 3D - Modelo Interativo é um projeto desenvolvido para demonstrar habilidades avançadas em modelagem 3D e renderização web. Ele consiste em um modelo fiel do icônico carro Dodge Viper, totalmente interativo, permitindo que os usuários visualizem o veículo em 360° diretamente no navegador.
+O Dodge Viper 3D Modelo Interativo é um projeto desenvolvido para demonstrar habilidades avançadas em modelagem 3D e renderização web. Ele consiste em um modelo fiel do icônico carro Dodge Viper, totalmente interativo, permitindo que os usuários visualizem o veículo em 360° diretamente no navegador.
 
 <br>
 
