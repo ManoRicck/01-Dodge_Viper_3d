@@ -60,15 +60,17 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 
 ```tree
 Dodge_Viper_3d/
-├── models/
-│   ├── viper.obj
-│   └── viper.mtl
-├── textures/
+│
+├── container/
+│   ├── dodge_viper.glb
+├── css/
+│   ├── style.css
+├── img/
+│   ├── logo-dodge.png
 ├── js/
-│   └── main.js
+│   └── script.js
 ├── index.html
-├── LICENSE
-└── preview.jpg
+└── README.md
 ```
 
 ## 🚀 Como Executar Localmente
