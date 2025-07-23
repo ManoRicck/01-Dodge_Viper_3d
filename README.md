@@ -77,18 +77,11 @@ Dodge_Viper_3d/
 ```bash
 git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
 ```
-2. Acesse a pasta do projeto:
+2. Execute o arquivo html:
 ```bash
-cd 01-Dodge_Viper_3d
+index.html
 ```
-3. Inicie um servidor local:
-```bash
-npx serve
-```
-4. Acesse no navegador:
-```bash
-http://localhost:3000
-```
+
 
 ## ✉️ Contato
 
