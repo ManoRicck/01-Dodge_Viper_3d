@@ -37,11 +37,8 @@ https://github.com/user-attachments/assets/31aeb326-ac7b-4ce4-991a-52bd0bb848e9
 | <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="20"> **HTML5** | Estrutura da página | [HTML5 Reference](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20"> **CSS3** | Estilização da interface | [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20"> **JavaScript** | Controles interativos | [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
-
-<br>
-
-
 </div>
+<br>
 
 ## 🌟 Visão Geral
 
